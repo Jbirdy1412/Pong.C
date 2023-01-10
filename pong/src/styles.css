@@ -17,7 +17,7 @@ body {
 }
 
 #left-paddle {
-  background-color: green;
+  background-color: purple;
   left: 10px;
   height: 25px;
 }
@@ -74,7 +74,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: red;
+  background-color: yellow;
   border-radius: 10px;
   position: absolute;
   left: 50px;
